@@ -1,0 +1,35 @@
+.main-1nlx ul li {
+    float: left;
+    width: 48%;
+}
+
+.ttxw1 {
+    margin-right: 4%;
+    position: relative;
+    margin-bottom: 40px;
+}
+
+nav.navbar.bootsnav {
+    margin-bottom: 0;
+    -moz-border-radius: 0px;
+    -webkit-border-radius: 0px;
+    -o-border-radius: 0px;
+    border-radius: 0px;
+    background: #017138;
+    border: none;
+    z-index: 9;
+}
+
+nav.bootsnav .container {
+    position: relative;
+}
+
+nav.navbar.bootsnav ul.nav > li{
+    margin: 0 20px;
+}
+nav.navbar.bootsnav ul.nav > li > a {
+    color: #FFFFFF;
+    background-color: transparent !important;
+    font-size: 16px;
+    line-height: 50px;
+}
